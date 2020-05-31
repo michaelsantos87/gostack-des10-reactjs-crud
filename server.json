@@ -3,10 +3,10 @@
     {
       "id": 1,
       "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "available": false
     },
     {
       "id": 2,
@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "name": "8",
+      "image": "8",
+      "price": "8",
+      "description": "8",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Comida Mineira",
+      "image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/chorizo-mozarella-gnocchi-bake-cropped.jpg",
+      "price": "25,99",
+      "description": "Muita boa de+",
+      "available": true
     }
   ]
 }
